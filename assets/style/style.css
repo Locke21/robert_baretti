@@ -12,3 +12,17 @@
     opacity: 1;
     float:left;
 }
+.in{
+    margin: 14px;
+    display:inline-block;
+    min-height: 150px;
+    min-width: 150px;
+    max-height: 150px;
+    max-width: 150px;
+    background-color: red;
+    border: 2px solid grey;
+}
+.in:hover{
+    opacity: 0.4;
+
+}
