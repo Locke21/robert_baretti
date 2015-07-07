@@ -2,4 +2,13 @@
     opacity: 0.5;
     font-weight: 700;
     margin-top: 5px;
+
+}
+.start{
+    min-height: 200px;
+    max-height: 200px;
+    min-width: 160px;
+    max-width: 160px;
+    opacity: 1;
+    float:left;
 }
