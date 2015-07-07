@@ -27,3 +27,15 @@ a:hover:before {
     cursor: pointer;
 
 }
+.hyphenless {
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+    text-align: justify;
+    width: 100%;
+}
+hr{
+    border-top: 1px solid grey;
+    margin-bottom: 0.3em;
+}
